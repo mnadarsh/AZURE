@@ -1,0 +1,17 @@
+{
+	"name": "covid-reportingproject-adf",
+	"properties": {
+		"globalParameters": {
+			"GL_param_for_india_country_code": {
+				"type": "string",
+				"value": "India-IND"
+			}
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84593d8f-b672-411a-b2c7-20ee11eeaef0",
+		"tenantId": "0daafe29-0d82-485f-94af-7c46a96d4f90"
+	}
+}
